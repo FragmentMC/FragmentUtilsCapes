@@ -1,1 +1,4 @@
-[{ "uuid": "080f41d0-b217-41f5-9b89-86f4769aa768", "cape_key": 1 }]
+[
+  { "uuid": "080f41d0-b217-41f5-9b89-86f4769aa768", "cape_key": 3 },
+  { "uuid": "fdfebaf9-85e2-42f5-8076-e78ddf36132c", "cape_key": 2 }
+]
